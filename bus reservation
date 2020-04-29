@@ -1,0 +1,6 @@
+#include<iostream>
+#include<string.h>
+#include<conio.h>
+#include<cstidio>
+#include<cstidlib>
+using namesspace.std;
